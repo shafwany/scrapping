@@ -1,0 +1,734 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwLA3Z-JJ44gbBNqlUISuM8mMZ1dz1TqjQ-fwrcN-aJ6k2ILDYS8A9Y5ZVlA9XFwJPbq90sDo2US0v-QDPy-Wtj-m_OnJpU2Xm4VUDXB9tiCsQil0e48tZCk-C10nMgIRSSxf0TGYX3v2neMWSsETKVNQ-SpNXzG3cIhpofYzZGVB6WeBwSLUKDCU0GXS2Rpf9P_vOKpjNxmTk_cIIAwtkgxLA2sq5XDLgddzsDL8RRQPydFfDZzQKByEQ4gV1Lvkqns1ilNJ0wDIqkF1hXPbxcL7W-nJh9GeTc-AAGfwzWg0lqF8liN20Jv1NWyk9RJz0zw4E08ovKEAOnTUJo-VLq3w-zCcLfZpsgrRC_Y99QfcULrzLkTJBgmGgY5GHndt47r-4Q8n5jibCUKVk8Sqy4c1RWJYwvBHVGpVm_BL81itHAcbrCbHqQk231q9LE",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2219934,
+               "lng" : 106.8988485
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.220453420107279,
+                  "lng" : 106.9001983298927
+               },
+               "southwest" : {
+                  "lat" : -6.223153079892723,
+                  "lng" : 106.8974986701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "name" : "ATM Bank Mandiri",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJXdgRXVrzaS4Rp2S6NoeJGdw",
+         "plus_code" : {
+            "compound_code" : "QVHX+6G Klender, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta",
+            "global_code" : "6P58QVHX+6G"
+         },
+         "rating" : 0,
+         "reference" : "ChIJXdgRXVrzaS4Rp2S6NoeJGdw",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "Jl. Pahlawan Revolusi No.57, Pondok Bambu, Duren Sawit, RT.2/RW.4, Klender, Kota Jakarta Timur"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.1926502,
+               "lng" : 106.9025969
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.191166970107279,
+                  "lng" : 106.9039274798927
+               },
+               "southwest" : {
+                  "lat" : -6.193866629892723,
+                  "lng" : 106.9012278201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "name" : "ATM Mandiri",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118092475550714196028\"\u003eRenaldi Bro\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKef63u3CdOpjVXrltj2_BV6QliHr0XKsRzs8hwwn4oxKI05ng1cNMiXmuHcHAqVc-6KASf4c1drkDYZhH89mDiMQ9aMlluaNlKy-tbsdEdiZAgTvBVHEvy6pjFG90p5SnYel7sVfrr4YM3Bbbh_E6EbxFDZtBraDoddlYg-A3OFQ6_",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJoxjsRcj0aS4Rtk9mM3aJJXU",
+         "plus_code" : {
+            "compound_code" : "RW43+W2 Jatinegara Kaum, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta",
+            "global_code" : "6P58RW43+W2"
+         },
+         "rating" : 5,
+         "reference" : "ChIJoxjsRcj0aS4Rtk9mM3aJJXU",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Pemuda Raya No.1 A, RT.2/RW.7, Jatinegara Kaum, Kota Jakarta Timur"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.1930352,
+               "lng" : 106.8844443
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.191786620107278,
+                  "lng" : 106.8857859298927
+               },
+               "southwest" : {
+                  "lat" : -6.194486279892722,
+                  "lng" : 106.8830862701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "name" : "ATM Mandiri",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4208,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103680184868241469317\"\u003eBudi Suryanto\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLddrZFCFiNvBprXAcqi6Ikq0_WC3Vpg_wSUeJ_x1_hdH8eqst_hlzs5-kz8t8oWbUdTvx3K6Qefd4r75YTlsWv9rkd4iRkM-R62xHf6PvtHucXebDSvHnpivBfpzPVnnXAIhShy_VHqMWMz48tw-b_r3CQsFO62rguW0KoTisgVJEq",
+               "width" : 2368
+            }
+         ],
+         "place_id" : "ChIJ25tlEuv0aS4RP8VXp1FuA8s",
+         "plus_code" : {
+            "compound_code" : "RV4M+QQ Rawamangun, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta",
+            "global_code" : "6P58RV4M+QQ"
+         },
+         "rating" : 3,
+         "reference" : "ChIJ25tlEuv0aS4RP8VXp1FuA8s",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Rabbani, No. 1, Jl. Pemuda No.8, RT.8/RW.4, Rawamangun, Kota Jakarta Timur"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.211807100000001,
+               "lng" : 106.8898684
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.21042232010728,
+                  "lng" : 106.8911940298927
+               },
+               "southwest" : {
+                  "lat" : -6.213121979892724,
+                  "lng" : 106.8884943701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "name" : "ATM Mandiri",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115390973947183126796\"\u003eBayu Sapto Kurniawan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLiMgTd7NoxiAl4NOdCA7cUToBMByTiEJQLYbWDhd7YTNloiUm-YzcsjmNOw7k8QAJGtmg1C-8BP2wN6LfmGbpCgll2Jf0_ODgqyy0E8qQ2C0HHvM8w-eOduqI0q4NTQFtqqmy4_OUgWWS08V0HLbs4uK9vH3CrMdgchFEvwqnnAjkE",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJSWb9xqH0aS4Rg2KpEIehH8U",
+         "plus_code" : {
+            "compound_code" : "QVQQ+7W Cipinang, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta",
+            "global_code" : "6P58QVQQ+7W"
+         },
+         "rating" : 3,
+         "reference" : "ChIJSWb9xqH0aS4Rg2KpEIehH8U",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Jl. Bekasi Timur Raya No.9, RT.1/RW.8, Cipinang, Kota Jakarta Timur"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2214939,
+               "lng" : 106.905207
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.220066570107279,
+                  "lng" : 106.9065536298927
+               },
+               "southwest" : {
+                  "lat" : -6.222766229892723,
+                  "lng" : 106.9038539701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "name" : "ATM Mandiri",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJh60tbFHzaS4RaowqmrDbnk4",
+         "plus_code" : {
+            "compound_code" : "QWH4+C3 Klender, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta",
+            "global_code" : "6P58QWH4+C3"
+         },
+         "rating" : 0,
+         "reference" : "ChIJh60tbFHzaS4RaowqmrDbnk4",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "Jalan Duren Sawit, RT.5/RW.9, Klender, Kota Jakarta Timur"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.221134999999999,
+               "lng" : 106.9105889
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.219750720107278,
+                  "lng" : 106.9119377298927
+               },
+               "southwest" : {
+                  "lat" : -6.222450379892722,
+                  "lng" : 106.9092380701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "name" : "ATM Mandiri",
+         "place_id" : "ChIJVUgtFFPzaS4R2qaDmx_80nI",
+         "plus_code" : {
+            "compound_code" : "QWH6+G6 Klender, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta",
+            "global_code" : "6P58QWH6+G6"
+         },
+         "rating" : 5,
+         "reference" : "ChIJVUgtFFPzaS4R2qaDmx_80nI",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Blok, Jl. Dermaga Raya No.29, RT.3/RW.11, Klender, East Jakarta City"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2083637,
+               "lng" : 106.9016996
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.207032770107278,
+                  "lng" : 106.9031325798927
+               },
+               "southwest" : {
+                  "lat" : -6.209732429892722,
+                  "lng" : 106.9004329201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "name" : "ATM Mandiri",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJU7kJa6_0aS4ReDXWEVlKU_U",
+         "plus_code" : {
+            "compound_code" : "QWR2+MM Jatinegara Kaum, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta",
+            "global_code" : "6P58QWR2+MM"
+         },
+         "rating" : 0,
+         "reference" : "ChIJU7kJa6_0aS4ReDXWEVlKU_U",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "Jl. Bekasi Timur Raya No.48c, RT.13/RW.2, Jatinegara Kaum, Kota Jakarta Timur"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2001965,
+               "lng" : 106.8960832
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.198851720107277,
+                  "lng" : 106.8974823298927
+               },
+               "southwest" : {
+                  "lat" : -6.201551379892721,
+                  "lng" : 106.8947826701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "name" : "ATM Mandiri",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJq3xR3bv0aS4RxuJJ79yN3AE",
+         "plus_code" : {
+            "compound_code" : "QVXW+WC Jati, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta",
+            "global_code" : "6P58QVXW+WC"
+         },
+         "rating" : 5,
+         "reference" : "ChIJq3xR3bv0aS4RxuJJ79yN3AE",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Toserba Berkah, Jl. Gurame No.31, RT.4/RW.6, Jati, East Jakarta City"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2069586,
+               "lng" : 106.9167904
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.205670120107278,
+                  "lng" : 106.9181416798927
+               },
+               "southwest" : {
+                  "lat" : -6.208369779892722,
+                  "lng" : 106.9154420201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "name" : "Mandiri ATM KCP Jakarta Kawasan Industri Pulogadung",
+         "place_id" : "ChIJF9uNyVOLaS4RYjSgPPygL3w",
+         "rating" : 3.3,
+         "reference" : "ChIJF9uNyVOLaS4RYjSgPPygL3w",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Jl. Pulobuaran No. 2 Pulogadung, RW.9, Jatinegara, Kota Jakarta Timur"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.1940274,
+               "lng" : 106.8872509
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.192608520107277,
+                  "lng" : 106.8886044798927
+               },
+               "southwest" : {
+                  "lat" : -6.195308179892721,
+                  "lng" : 106.8859048201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "name" : "ATM Mandiri",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102963093261496618541\"\u003eMuhamad Yusuf\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKScZYg_Z60KZS5UnT-BeHOOmOZTVkXgjbby9mqD8XzDY9iw66l--a388nZ-kktUmiWdbfu_dK3MFHUJLsn84ifn_I_K_IJsjkOgiPBjCPpmWIkd5jO5gfGEx-haWqSZCfSwap8PZ9bEhtIb-L35-5h2y_11M4wZSCEM_-190DkubBJ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ7blguOr0aS4R_rddNWSPuYg",
+         "plus_code" : {
+            "compound_code" : "RV4P+9W Rawamangun, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta",
+            "global_code" : "6P58RV4P+9W"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ7blguOr0aS4R_rddNWSPuYg",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "Pom Bensin Pertamina, Jalan Pemuda Raya, RT.2/RW.7, Rawamangun, Kota Jakarta Timur"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.1938245,
+               "lng" : 106.8940939
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.192369270107279,
+                  "lng" : 106.8954438298927
+               },
+               "southwest" : {
+                  "lat" : -6.195068929892723,
+                  "lng" : 106.8927441701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "name" : "ATM Mandiri",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ86KiscD0aS4RB6JqmZkCBNU",
+         "plus_code" : {
+            "compound_code" : "RV4V+FJ Jati, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta",
+            "global_code" : "6P58RV4V+FJ"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ86KiscD0aS4RB6JqmZkCBNU",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Bank Mandiri, Jalan Pemuda Raya, RT.1/RW.8, Jati, Kota Jakarta Timur"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2005798,
+               "lng" : 106.8861194
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.199229620107277,
+                  "lng" : 106.8874374798927
+               },
+               "southwest" : {
+                  "lat" : -6.201929279892721,
+                  "lng" : 106.8847378201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "name" : "ATM Mandiri",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ7TWPf5b0aS4R1uMVa6mamJg",
+         "plus_code" : {
+            "compound_code" : "QVXP+QC Rawamangun, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta",
+            "global_code" : "6P58QVXP+QC"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ7TWPf5b0aS4R1uMVa6mamJg",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "Tip Top, Jl. Balai Pustaka Timur, RT.7/RW.9, Rawamangun, Kota Jakarta Timur"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2246659,
+               "lng" : 106.891391
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.223253220107278,
+                  "lng" : 106.8926912798927
+               },
+               "southwest" : {
+                  "lat" : -6.225952879892722,
+                  "lng" : 106.8899916201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "name" : "ATM Mandiri",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJg1m-Bs_zaS4ROYdYQbSUrdI",
+         "plus_code" : {
+            "compound_code" : "QVGR+4H Cipinang Muara, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta",
+            "global_code" : "6P58QVGR+4H"
+         },
+         "rating" : 5,
+         "reference" : "ChIJg1m-Bs_zaS4ROYdYQbSUrdI",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jl. Cipinang Muara Raya No.3, RT.6/RW.3, Cipinang Muara, Kota Jakarta Timur"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.210820699999999,
+               "lng" : 106.8935064
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.209464520107278,
+                  "lng" : 106.8948886798927
+               },
+               "southwest" : {
+                  "lat" : -6.212164179892722,
+                  "lng" : 106.8921890201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "name" : "Mandiri ATM MITSUBISHI Pulo Gadung",
+         "place_id" : "ChIJZ04RRKH0aS4R_intKrJbNXM",
+         "rating" : 0,
+         "reference" : "ChIJZ04RRKH0aS4R_intKrJbNXM",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0,
+         "vicinity" : "Jl. Raya Bekasi Pulogadung, RT.2/RW.14, Cipinang, Kota Jakarta Timur"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2009365,
+               "lng" : 106.8858633
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.199588170107278,
+                  "lng" : 106.8872547298927
+               },
+               "southwest" : {
+                  "lat" : -6.202287829892722,
+                  "lng" : 106.8845550701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "name" : "Mandiri ATM KCP Jakarta Rawamangun Balai Pustaka",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJo6I1rZX0aS4Rg4Ij0yfOdjc",
+         "plus_code" : {
+            "compound_code" : "QVXP+J8 Rawamangun, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta",
+            "global_code" : "6P58QVXP+J8"
+         },
+         "rating" : 5,
+         "reference" : "ChIJo6I1rZX0aS4Rg4Ij0yfOdjc",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "RT.7/RW.9, Rawamangun, Kota Jakarta Timur"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2005908,
+               "lng" : 106.8906597
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.199245720107278,
+                  "lng" : 106.8919677298927
+               },
+               "southwest" : {
+                  "lat" : -6.201945379892722,
+                  "lng" : 106.8892680701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "name" : "Mandiri ATM KCP Jakarta Rawamangun Pegambiran",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106702312133271060764\"\u003eRomadhon Adhon\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJX5KR6B-01R_q3L58FI21nqCYhVVqgySB8BVJoMNe99eQIeuGd0IXgE3V8utyLbeDj6nhcS9N3bLqSWpo3oJ86gMlg5G3ECnicsafNBKvn5Ikz7iHoBYvwgq6vjHbgjg5VaFjg2-CRTSSrcWiRU3uN5xNjx7gZrvTiPQj8OOOMcNAg",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ6Ugu3L30aS4RNE-0s3lxyXg",
+         "plus_code" : {
+            "compound_code" : "QVXR+Q7 Rawamangun, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta",
+            "global_code" : "6P58QVXR+Q7"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJ6Ugu3L30aS4RNE-0s3lxyXg",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "Jl. Pegambiran No.5a, RT.12/RW.7, Rawamangun, Kota Jakarta Timur"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2139862,
+               "lng" : 106.9037523
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.212607370107278,
+                  "lng" : 106.9051025798927
+               },
+               "southwest" : {
+                  "lat" : -6.215307029892722,
+                  "lng" : 106.9024029201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "name" : "Mandiri ATM Citra Klender",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJZdR0VVXzaS4RtsxK_SQ_5WA",
+         "plus_code" : {
+            "compound_code" : "QWP3+CG Klender, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta",
+            "global_code" : "6P58QWP3+CG"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJZdR0VVXzaS4RtsxK_SQ_5WA",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Jl. I Gusti Ngurah Rai, RT.4/RW.6, Klender, Kota Jakarta Timur"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.1991169,
+               "lng" : 106.8862209
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.197766020107276,
+                  "lng" : 106.8875061298927
+               },
+               "southwest" : {
+                  "lat" : -6.20046567989272,
+                  "lng" : 106.8848064701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "name" : "ATM Mandiri",
+         "place_id" : "ChIJ247xzpX0aS4RBBzZ3jfwmhI",
+         "plus_code" : {
+            "compound_code" : "RV2P+9F Rawamangun, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta",
+            "global_code" : "6P58RV2P+9F"
+         },
+         "rating" : 2,
+         "reference" : "ChIJ247xzpX0aS4RBBzZ3jfwmhI",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jl. Balai Pustaka No.29, RT.4/RW.9, Rawamangun, East Jakarta City"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.221926499999999,
+               "lng" : 106.886219
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.220579070107278,
+                  "lng" : 106.8875902298927
+               },
+               "southwest" : {
+                  "lat" : -6.223278729892722,
+                  "lng" : 106.8848905701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "name" : "Mandiri ATM SPBU Cipinang",
+         "place_id" : "ChIJAQ8gXWDzaS4R4I-fnGy9JkI",
+         "rating" : 1,
+         "reference" : "ChIJAQ8gXWDzaS4R4I-fnGy9JkI",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jl. Cipinang Timur No.5, RT.5/RW.10, Cipinang Muara, Kota Jakarta Timur"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.1942774,
+               "lng" : 106.8910037
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.192901570107279,
+                  "lng" : 106.8923562798927
+               },
+               "southwest" : {
+                  "lat" : -6.195601229892723,
+                  "lng" : 106.8896566201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "name" : "ATM Mandiri",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114321444266875171483\"\u003earthur wilfrits\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ51uQ9nRA47VxbccoV4SawmG86Zn39Pld1RqxaDpXqiq00PhC72QCS6FrNBuj24kREQ3FO8tsXZDMmeg-MMimRufcX5IDoLwpgsFSZ1KEc25TIhOS-WhY6nEHsaEWsOY4XfsGJwYeHY5ZAJlpmLICPV3wm6L5CqsHo2-yoKaJpMDT2",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJaVpIesD0aS4RAxi6cnSmuOs",
+         "plus_code" : {
+            "compound_code" : "RV4R+7C Rawamangun, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta",
+            "global_code" : "6P58RV4R+7C"
+         },
+         "rating" : 5,
+         "reference" : "ChIJaVpIesD0aS4RAxi6cnSmuOs",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Arion Mal Lantai.1, Jalan Pemuda Raya, RT.2/RW.7, Rawamangun, Kota Jakarta Timur"
+      }
+   ],
+   "status" : "OK"
+}
